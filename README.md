@@ -1,0 +1,1 @@
+This repository contains a collection of machine learning projects that I have worked on. Each project showcases different algorithms, models, and techniques used in the field of machine learning. The projects cover a range of topics, including data preprocessing, model training and evaluation.
